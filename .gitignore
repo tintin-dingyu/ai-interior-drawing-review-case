@@ -1,3 +1,16 @@
+# Public cases contain documentation and rendered previews only.
 .DS_Store
 __pycache__/
 *.py[cod]
+*.zip
+*.xlsx
+*.xls
+*.pdf
+*.json
+*.tsv
+.env
+.env.*
+SKILL.md
+skills/
+references/
+scripts/
